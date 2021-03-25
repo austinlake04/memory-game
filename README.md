@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-src='http://i.imgur.com/link/to/your/gif/file.gif'
+<img src='http://i.imgur.com/link/to/your/gif/file.gif'>
 
 
 ## Reflection Questions
